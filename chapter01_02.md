@@ -32,3 +32,7 @@ KeyboardInterrupt
 
 C:\Users\user>
 ```
+
+```
+print('Hello python!')
+```
